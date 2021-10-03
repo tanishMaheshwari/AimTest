@@ -178,7 +178,7 @@ def rootWindow():
     titleFrame = tk.Frame(root)
 
     titleLabel = tk.Label(titleFrame, text='Tic Tac Toe', font=('arial', 20, 'bold'))
-    versionLabel = tk.Label(titleFrame, text='V 1.0')
+    versionLabel = tk.Label(titleFrame, text=' ' * 35 + 'V 1.0' + ' ' * 16 + 'by Tanish M', anchor='e')
 
     # Theme
     if Theme == '2':

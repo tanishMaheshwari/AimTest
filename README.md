@@ -2,7 +2,7 @@
  
 ### How to Run the Application
 
-**Run AimTest.py to open file**
+* Run AimTest.py to open file
 
 
 ## Things To Do

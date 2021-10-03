@@ -1,2 +1,3 @@
 # AimTest
  
+Run AimTest.py

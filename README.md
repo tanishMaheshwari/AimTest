@@ -47,7 +47,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tanishMaheshwari/AimTest">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>

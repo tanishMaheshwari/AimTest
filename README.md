@@ -1,4 +1,4 @@
-<!-->
+<!--
 # AimTest
  
 ### How to Run the Application
@@ -13,7 +13,7 @@
 - [x] Add Settings to Main Menu
 
 
-<-->
+-->
 
 <div id="top"></div>
 <!--

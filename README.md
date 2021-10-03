@@ -50,10 +50,11 @@
     <img src="image/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Aim Test</h3>
+<h2 align="center">Aim Test</h2>
 
   <p align="center">
-    project_description
+    Aim Test is an application I developed to Test Tkinter and it's use.
+    It tests your reaction speed and hand to eye coordination skills 
     <br />
     <a href="https://github.com/tanishMaheshwari/AimTest"><strong>Explore the docs »</strong></a>
     <br />

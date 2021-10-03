@@ -172,12 +172,12 @@ def settings():
 def rootWindow():
     global Theme, root
     root = tk.Tk()
-    root.title('Tic Tac Toe')
+    root.title('Aim Test')
     
     # Title
     titleFrame = tk.Frame(root)
 
-    titleLabel = tk.Label(titleFrame, text='Tic Tac Toe', font=('arial', 20, 'bold'))
+    titleLabel = tk.Label(titleFrame, text='Aim Test', font=('Verdana', 20, 'bold'))
     versionLabel = tk.Label(titleFrame, text=' ' * 35 + 'V 1.0' + ' ' * 16 + 'by Tanish M', anchor='e')
 
     # Theme

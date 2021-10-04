@@ -13,6 +13,7 @@ timeTaken = 0
 #Settings
 Theme = '1'
 testNo  = 10
+boxColor = 'yellow'
 
 def popUp(title = 'Notice', Message = 'Empty Message'):
     global Theme
@@ -70,8 +71,8 @@ def game():
                 print(timeTaken)
                 score = 0
                 startTime = time.time()
-                popUp(str(testNo) + ' Shots Completed', 'You Clicked ' + str(testNo) + ' targets in \n' + str(timeTaken) + ' sec\nThe Avg. is ' + str(round(timeTaken / testNo * 1000, 2)) + ' ms')
-                scoreLabel.config(text='Score: ' + str(score))
+                popUp(str(testNo) + ' Shots Completed', ('You Clicked ' + str(testNo) + ' targets in \n' + str(timeTaken) + ' sec\nThe Avg. is ' + str(round(timeTaken / testNo * 1000, 2)) + ' ms'))
+                scoreLabel.config(text=('Score: ' + str(score)))
 
         pass
 
